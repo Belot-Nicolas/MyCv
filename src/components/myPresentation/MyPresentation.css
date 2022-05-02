@@ -1,0 +1,12 @@
+
+.MyPresentation{
+    color: aliceblue;
+    text-align: center;
+    font-size: 4vh;
+    margin-top: 4vh;
+    font-family: var(--fontText)
+}
+
+.MyPresentation h1 {
+    margin-bottom: 1vh;
+}

@@ -1,0 +1,50 @@
+.MyProjects h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 6vh;
+    margin-top: 6vh;
+    font-size: 10vh;
+    font-family: var(--fontText)
+}
+
+.titleProject{
+    text-decoration: underline;
+}
+
+.project1{
+    margin-top: 10vh;
+}
+
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image{
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    margin: 3vh;
+    transition: 1s;
+    box-shadow: 0px 0px 38px -13px white;
+    border-radius: 5px;
+}
+
+.image:hover{
+    transform: scale(1.7);
+    transition: 1s;
+}
+
+
+.paragraph{
+    color: aliceblue;
+    text-align: center;
+    font-size: 6vh;
+    margin-top: 6vh;
+    font-size: 5vh;
+    font-family: var(--fontText);
+    margin-top: 10vh;
+    
+}
+

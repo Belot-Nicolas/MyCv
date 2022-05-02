@@ -1,0 +1,50 @@
+.MyPhoto{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.photoNico{
+   
+    position: absolute;
+    height: 40vh;
+    margin-top: 5vh;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.photoNico img {
+    height: 40vh;
+    width: 40vh;
+    border-radius: 50%;
+}
+
+.spinner {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 42vh;
+    height: 42vh;
+    margin-top: 4vh;
+    border-radius: 50%;
+}
+
+.spinner::before{
+    content: "";
+    position: absolute;
+    border-radius: inherit;
+}
+
+.spinner::before{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(0deg, #ff2121 0%, #ff010100 100%);
+    animation: spin 3s infinite linear;
+}
+
+
+@keyframes spin {
+    to{
+        transform: rotate(360deg);
+    }
+}
