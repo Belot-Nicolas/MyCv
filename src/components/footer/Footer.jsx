@@ -26,7 +26,7 @@ const Footer = () => {
 
          <div className="git elementFooter">
             <img src={IconeGuit} alt="github" className='icone' />
-            <a href="https://github.com/Belot-Nicolas?tab=repositories" className='link'>GuitHub</a>
+            <a href="https://github.com/Belot-Nicolas?tab=repositories" className='link'>GitHub</a>
          </div>
     </div>
   )

@@ -23,8 +23,7 @@ const MyPresentation = () => {
         Au cours de cet enseignement, le travail de groupe
         était omniprésent, en s’entraidant à comprendre les concepts et se
         repartir les taches l’or des projets.<br/> <br/>
-        Après plusieurs boites de
-        Doliprane engloutit, je suis arrivé à la fin de ces 5 mois intensifie
+        Je suis arrivé à la fin de ces 5 mois intensifie
         avec pleins de nouvelles compétences et une envie d’apprendre toujours
         plus.
       </p>

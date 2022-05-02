@@ -25,7 +25,7 @@ import ProjectH2 from "../../assets/imgProjetct/ProjectH2.jpg"
 const MyProjects = () => {
   return (
     <div className="MyProjects">
-      <h2> &#8249;MesProjets /&#8250;</h2>
+      <p className="title"> &#8249;MesProjets /&#8250;</p>
       <div className="project1">
         <div className="paragraph"  data-aos="zoom-out" data-aos-delay="800">
           <p className="titleProject">Voyage à Cuba:</p>
@@ -88,18 +88,18 @@ const MyProjects = () => {
           <img src={SiteProject34} alt="prev33" className="image" />
         </div>
         
-        <div className="paragraph"  data-aos="zoom-out" data-aos-delay="800">
+        <div className="paragraph"  data-aos="zoom-in" data-aos-delay="800">
           <p className="titleProject">Hitman:</p>
           <p>Hitman est un side project.<br/>
              Ce site présente les personnages et les missions du jeux vidéo Hitman. <br/>
-             Mais surtout, c'est un cite où j'implémente tout ce que j'ai appris durant la formation. <br/>
+             Mais surtout, c'est un site où j'implémente tout ce que j'ai appris durant la formation. <br/>
             Développer avec React.js pour la parti frontend, Node.js express.js et MySql pour le backend.
-            À terme, l'administrateur pourra modifier les personnages et les mission présente, les supprimer, et les ajoutés. 
+            À terme, l'administrateur pourra modifier les personnages et les mission présente, les supprimés, et les ajoutés. 
           </p>
         
         </div>
 
-        <div className="image-container"  data-aos="zoom-out" data-aos-delay="800">
+        <div className="image-container"  data-aos="zoom-in" data-aos-delay="800">
           <img src={ProjectH1} alt="hitman" className="image" />
           <img src={ProjectH2} alt="hitman" className="image" />
           

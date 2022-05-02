@@ -23,3 +23,19 @@
     color: black;
     font-size: 22px;
 }
+
+@media screen and (max-width: 376px) {
+
+   .Footer{
+        display: flex;
+        flex-direction: column;
+        height: 21vh;
+        width: 97vw;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+    
+    .icone{
+        width: 9vw ;
+    }
+}
