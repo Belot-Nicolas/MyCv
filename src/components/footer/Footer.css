@@ -24,7 +24,7 @@
   font-size: 22px;
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 769) {
   .Footer {
     display: flex;
     flex-direction: column;
