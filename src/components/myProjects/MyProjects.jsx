@@ -28,10 +28,10 @@ const MyProjects = () => {
         <div className="paragraph" data-aos="zoom-out" data-aos-delay="800">
           <p className="titleProject">Voyage à Cuba:</p>
           <p>
-            Voici le premier site que j'ai crée, avec trois collègues, pour le
+            Voici le premier site que j'ai créé, avec trois collègues, pour le
             projet 1 de la formation. <br />
-            Ce site a été créé en HTML et CSS et à pour vocation d'aidé les
-            aventuriers dans leur voyage à Cuba.
+            Ce site a été créé en HTML et CSS et a pour vocation d'aidé les
+            aventuriers dans leurs voyage à Cuba.
           </p>
         </div>
 
@@ -55,8 +55,8 @@ const MyProjects = () => {
             Voici le deuxième projet de formation. <br /> HpEat est un site de
             commande en ligne sur le thème de Harry Potter &#40; vous l'avez
             sûrement deviné &#41;. <br /> Nous nous sommes inspiré d'une célèbre
-            application qui a le même bute, mais pour les modus. <br /> HpEat a
-            été développé avec React.js, une API extérieure. <br /> Menu
+            application qui a le même but, mais pour les moldus. <br /> HpEat a
+            été développé avec React.js et une API extérieure. <br /> Menu
             filtrant les plats par type, un panier, un compte utilisateur et le
             site et responcive !
           </p>
@@ -83,12 +83,12 @@ const MyProjects = () => {
             Cette société propose des formations en sécurité et sécurité
             incendie pour les entreprises. <br />
             Notre porteur de projet voulait une refonte totale de son site. Le
-            moin de click possible pour accède aux fiches formation,
-            sympathiques a navigué, et personnalisable par l'administrateur
+            moin de click possible pour accèder aux fiches formation,
+            sympathiques à navigué, et personnalisable par l'administrateur
             était les maîtres-mots du projet. La parti visible du site à était
-            développer avec React.js, la partit base de données avec MySql et
+            développer avec React.js, la partie base de données avec MySql et
             les routes pour relier les deux nous avons utilisé Node.js
-            (Express.js){" "}
+            (Express.js).
           </p>
         </div>
 
@@ -112,7 +112,7 @@ const MyProjects = () => {
             Hitman. <br />
             Mais surtout, c'est un site où j'implémente tout ce que j'ai appris
             durant la formation. <br />
-            Développer avec React.js pour la parti frontend, Node.js express.js
+            Développer avec React.js pour la partie frontend, Node.js express.js
             et MySql pour le backend. À terme, l'administrateur pourra modifier
             les personnages et les mission présente, les supprimés, et les
             ajoutés.
