@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MyCv/static/css/main.0702444c.css",
+    "main.js": "/MyCv/static/js/main.3107b365.js",
+    "static/media/SiteProject12.jpg": "/MyCv/static/media/SiteProject12.599f1c85f1d9dd324a12.jpg",
+    "static/media/SiteProject13.jpg": "/MyCv/static/media/SiteProject13.b02546e9b97911250bc8.jpg",
+    "static/media/LogoNodeJs.png": "/MyCv/static/media/LogoNodeJs.026e4f503d8e3d32a960.png",
+    "static/media/SiteProject11.jpg": "/MyCv/static/media/SiteProject11.57a80aca82e89da3c0db.jpg",
+    "static/media/SiteProject31.jpg": "/MyCv/static/media/SiteProject31.2e3c0750718070f65e7f.jpg",
+    "static/media/SiteProject33.jpg": "/MyCv/static/media/SiteProject33.841d03535bbf29bb7e0e.jpg",
+    "static/media/SiteProject14.jpg": "/MyCv/static/media/SiteProject14.aa472c0a3bf89635fd8e.jpg",
+    "static/media/SiteProject21.jpg": "/MyCv/static/media/SiteProject21.e06f9150cd4e2bafe94a.jpg",
+    "static/media/PhotoNico.jpg": "/MyCv/static/media/PhotoNico.d886a57a15fe52aee896.jpg",
+    "static/media/SiteProject32.jpg": "/MyCv/static/media/SiteProject32.5e6d472d8d9a91c09fc5.jpg",
+    "static/media/SiteProject34.jpg": "/MyCv/static/media/SiteProject34.15dab802473cd54d1874.jpg",
+    "static/media/ProjectH1.jpg": "/MyCv/static/media/ProjectH1.79cc07c8574e93b2addf.jpg",
+    "static/media/LogoReact.png": "/MyCv/static/media/LogoReact.7fbc2ed0fc8cce7ea9ae.png",
+    "static/media/SiteProject22.jpg": "/MyCv/static/media/SiteProject22.06b55ea2db663a74567d.jpg",
+    "static/media/LogoHtmlCss.png": "/MyCv/static/media/LogoHtmlCss.077318d38709199d40aa.png",
+    "static/media/SiteProject15.jpg": "/MyCv/static/media/SiteProject15.c7ed3ac1490db92c139e.jpg",
+    "static/media/ProjectH2.jpg": "/MyCv/static/media/ProjectH2.360f9ce2a43668400dc0.jpg",
+    "static/media/LogoGuithub.png": "/MyCv/static/media/LogoGuithub.d23c5d2b8cd08fbf626d.png",
+    "static/media/SiteResProject24.jpg": "/MyCv/static/media/SiteResProject24.7cd52dcb2f1a8d25b677.jpg",
+    "static/media/LogoJs.png": "/MyCv/static/media/LogoJs.166865dacb77d214f485.png",
+    "static/media/SiteResProject23.jpg": "/MyCv/static/media/SiteResProject23.1b6c6336bf4e095f0698.jpg",
+    "static/media/LogoMySql.png": "/MyCv/static/media/LogoMySql.887fc6e9b2c3c7a3e1d2.png",
+    "index.html": "/MyCv/index.html",
+    "main.0702444c.css.map": "/MyCv/static/css/main.0702444c.css.map",
+    "main.3107b365.js.map": "/MyCv/static/js/main.3107b365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0702444c.css",
+    "static/js/main.3107b365.js"
+  ]
+}
