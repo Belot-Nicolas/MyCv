@@ -15,7 +15,7 @@
 }
 
 .icone {
-  width: 4vw;
+  width: 42px;
 }
 
 .link {
@@ -24,7 +24,7 @@
   font-size: 22px;
 }
 
-@media screen and (max-width: 769) {
+@media screen and (max-width: 769px) {
   .Footer {
     display: flex;
     flex-direction: column;
@@ -32,9 +32,5 @@
     width: 97vw;
     flex-wrap: nowrap;
     align-items: center;
-  }
-
-  .icone {
-    width: 9vw;
   }
 }
